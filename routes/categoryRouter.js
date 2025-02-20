@@ -1,6 +1,6 @@
 const Router = require('express');
 const router = new Router();
-const CategoryController = require('../controllers/CategoryController');
+const CategoryController = require('../controllers/сategoryController');
 
 // Определение маршрутов для категорий
 router.post('/', CategoryController.create); // Создание категории
