@@ -4,6 +4,7 @@ const router = new Router();
 import CategoryController from '../controllers/CategoryController';
 
 
+
 // Определение маршрутов для категорий
 router.post('/', CategoryController.create); // Создание категории
 router.get('/', CategoryController.get); // Получить все категории
