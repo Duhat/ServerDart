@@ -21,9 +21,9 @@
     "sequelize": "6.37.5"
   },
   "devDependencies": {
-    "nodemon": "2.0.22" // Убедитесь, что версия nodemon установлена
+    "nodemon": "2.0.22" 
   },
   "engines": {
-    "node": ">=14.0.0" // Укажите необходимую версию Node.js
+    "node": ">=14.0.0" 
   }
 }
