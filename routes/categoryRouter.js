@@ -1,7 +1,7 @@
 const Router = require('express');
 const router = new Router();
 
-import CategoryController from '../controllers/CategoryController';
+import CategoryController from '../controllers/сategoryController';
 
 
 
